@@ -1,2 +1,2 @@
-var mymodule = require('talkapp_sato@1.0.0');
+var mymodule = require('./talkapp');
 module.exports = mymodule;
