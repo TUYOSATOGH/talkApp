@@ -1,2 +1,2 @@
-var mymodule = require('./talkApp_sato.js');
+var mymodule = require('./module.js');
 module.exports = mymodule;
