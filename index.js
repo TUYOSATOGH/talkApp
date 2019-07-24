@@ -1,2 +1,2 @@
-var mymodule = require('./talkapp');
+var mymodule = require('./talkApp');
 module.exports = mymodule;
